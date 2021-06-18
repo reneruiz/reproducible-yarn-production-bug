@@ -109,7 +109,7 @@
     "redux-thunk": "^2.1.0",
     "sass-loader": "^6.0.2",
     "serialize-javascript": "^1.4.0",
-    "striptags": "^2.1.1",
+    "striptags": "^3.2.0",
     "style-loader": "^0.13.2",
     "svg-react-loader": "^0.3.7",
     "text-mask-addons": "^3.7.0",
